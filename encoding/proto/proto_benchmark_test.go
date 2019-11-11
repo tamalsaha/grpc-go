@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/golang/protobuf/proto"
+	"github.com/gogo/protobuf/proto"
 	"google.golang.org/grpc/encoding"
 	"google.golang.org/grpc/test/codec_perf"
 )
